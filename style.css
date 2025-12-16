@@ -1,0 +1,22 @@
+.tagline {
+    letter-spacing: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ff014f;
+    margin-bottom: 15px;
+}
+
+.hero-title {
+    font-size: 48px;
+    margin: 0;
+}
+
+.hero-title span {
+    color: #ff014f;
+}
+
+.hero-subtitle {
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 10px;
+}
